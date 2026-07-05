@@ -24,9 +24,6 @@ Our technology organization relies on a modular, unified stack designed to susta
 DishShare Labs manages a diversified pipeline of active applications, catering to distinct user demographics and business needs:
 
 * 📖 **DishShare (Core):** A secure, private database application engineered for multi-user family groups to catalog, archive, and cross-reference culinary assets and legacy metadata.
-* ⚡ **TaskFlow:** A minimalist, asynchronous workflow tracking dashboard built for fractional engineering teams and remote agile operations.
-* 🤖 **EchoAI:** A secure prompt management platform and snippet repository designed to optimize context windows for software developers.
-* 📊 **MetricMint:** A privacy-compliant, lightweight analytics engine built for independent web developers and micro-SaaS deployments.
 
 ---
 
